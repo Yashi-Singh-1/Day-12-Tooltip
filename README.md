@@ -37,7 +37,7 @@
 <pre>
 <code>
 Day-12-Tooltip/
-├── styles.css/
+├── styles.css
 ├── index.html
 └── README.md
 </code>
